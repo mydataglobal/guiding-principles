@@ -4,7 +4,7 @@ MyData Global organisation and it’s international network operates on the basi
 
 We recognise that as humans, our actions might not always align with the agreed principles; in this spirit we pledge to address all concerns raised about gaps or breaches of our principles in an open and expeditious manner and to create an environment of continuous practice and learning.
 
-MyData Global has only opinions on issues defined by our [https://mydata.org/bylaws](purpose) and [https://mydata.org/declaration/](declaration).
+MyData Global has only opinions on issues defined by our [purpose](https://mydata.org/bylaws) and [declaration](https://mydata.org/declaration/).
 
 || What this means for us as the ORGANISATION |What this means for us as members and participants of the COMMUNITY
 | ------------- | ------------------------------------------ |----------------------------------------------------------------- |
