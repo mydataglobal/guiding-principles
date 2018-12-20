@@ -14,3 +14,5 @@ Efficiency, Agility & Coordination | We encourage decentralised activity in MyDa
 Culture of Proactivity | We open up processes as early as possible, invite contributions and taking initiatives. | We contribute proactively to ongoing projects, including giving constructive criticism where useful. |
 Diversity by Design | We design our processes to incorporate diversity and actively seek to include diverse voices. | We strive to bridge and benefit from the diversity of backgrounds, competencies, culture and  perspectives. |
 Accountability | We respect agreements entered with members as well as third parties and take common responsibility for successes as well as failures. | Even for voluntary efforts our common achievements depend on mutual accountability. We commit to share with relevant parties, when we are not able to meet values and expectations. |
+
+These guiding principles were approved in the association general meeting November 15, 2018.
